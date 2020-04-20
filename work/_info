@@ -1,0 +1,74 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\velig\Desktop
+Eparity
+Z1 w1587328016
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\velig\Desktop
+Z5 8C:\Users\velig\Desktop\16-bit Tek Parity.vhd
+Z6 FC:\Users\velig\Desktop\16-bit Tek Parity.vhd
+l0
+L4
+VS2bfN2NSIgIUUBo5W4RaX0
+!s100 nz1d>a5^hXBmi[@PS`PW?3
+Z7 OV;C;10.1b;51
+32
+!i10b 1
+Z8 !s108 1587328018.563000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\velig\Desktop\16-bit Tek Parity.vhd|
+Z10 !s107 C:\Users\velig\Desktop\16-bit Tek Parity.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Aparity_check
+R2
+R3
+DEx4 work 6 parity 0 22 S2bfN2NSIgIUUBo5W4RaX0
+l22
+L9
+VaL^Mhn<dYPNN0Bb`FE@5W1
+!s100 ^[^`P1aIl1m?2Co8R5^Cf2
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Abehavioral
+R2
+R3
+Z13 DEx4 work 6 parity 0 22 lA_5dPUD[jN:jRmM=WCb43
+l18
+L7
+VDei@m0Oc3XSKUJzflQ0K]3
+R7
+32
+R9
+Z14 !s107 C:\Users\velig\Desktop\16-bit Tek Parity.vhd|
+R11
+R12
+w1587327260
+!s108 1587327263.724000
+!s100 jV^mAEkT4oPHkE=:XI;iH3
+!i10b 1
+Abehv
+R2
+R3
+DEx4 work 6 parity 0 22 NKi9[c:gk`?>I>TNieIn[1
+l13
+L10
+VP7MAP8SVKzi7ge0gX9I4c2
+R7
+32
+R9
+R11
+R12
+w1587318062
+R14
+!s108 1587318032.619000
+!s100 b;A]b8gRK?UHD7]I=Qm0W2
+!i10b 1
